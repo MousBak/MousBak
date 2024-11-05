@@ -1,8 +1,10 @@
+![337686c236_116546_big-data](https://github.com/user-attachments/assets/d8886bd4-971d-4100-8414-41117ec7c154)
 
-![Uploading 337686c236_116546_big-data.jpg…]()
+
 - 👋 Salut, je suis Moussa Bakayoko (@MousBak)
 - 👀 **Je m'intéresse à** : la Big Data, le Machine Learning et l’IA prédictive. J’aime travailler sur l’analyse de données, le cloud computing et le développement d’applications évolutives.  
-- 🌱 **J'apprends actuellement** : des techniques avancées en Data Science, les pratiques DevOps, et je renforce mes compétences en Python et sur des plateformes cloud comme AWS et Azure.  
+- 🌱 **J'apprends actuellement** : des techniques avancées
+ en Data Science, les pratiques DevOps, et je renforce mes compétences en Python et sur des plateformes cloud comme AWS et Azure.  
 - 💞️ **Je cherche à collaborer sur** : des projets open source liés à la science des données, aux technologies financières (FinTech) et aux solutions Big Data. Je serais ravi de collaborer avec des passionnés de modélisation prédictive et d'IA !  
 - 📫 **Comment me contacter** : Vous pouvez m'envoyer un email à moussabakayoko098@gmail.com ou me retrouver sur [LinkedIn](www.linkedin.com/in/moussa-bakayoko-3b1946152).  
 - 😄 **Pronoms** : Il/Lui  
